@@ -1,0 +1,12 @@
+Customer,CUSTF98ER2,,,,,,,,,,,,,Approved
+Customer,CUSTF98ER2,,,,,,,,,,,,,Pending Approval
+Customer,CUSTF98ER2,,,,,,,,,,,,,Pending Approval
+Customer,CUSTF98ER2,,,,,,,,,,,,,Pending Approval
+Customer,CUSTF98ER2,,,,,,,,,,,,,Pending Approval
+Customer,CUSTF98ER2,,,,,,,,,,,,,Pending Approval
+Customer,CUST4S8UR3,,,,,,,,,,,,,Pending Approval
+Customer,CUST123,password123,John,M,Doe,john@ctu.edu.ph,1234567890,EMP123,2024-01-11 10:00:00,CCICT,CCICT,4th,401,Approved
+Customer,CUSTZPZXH0,password123,Michael,Kael,Kael,kael@ctu.edu.ph,09123123,123123,2025-01-28 03:12:11,CCICT,CCICT,4th,401,Pending Approval
+Admin,admin1,password123,1
+Admin,admin2,password123,1
+Technician,tech1,password123,1

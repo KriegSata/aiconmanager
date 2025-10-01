@@ -1,0 +1,168 @@
+Customer F98ER2,Registered,Fri Jan 10 06:07:40 2025
+Admin admin1,Logged In,Fri Jan 10 06:08:51 2025
+Customer CUSTF98ER2,Registered,Fri Jan 10 06:49:52 2025
+Admin admin1,Logged In,Fri Jan 10 06:50:46 2025
+Admin N/A,Approved Customer Account,Fri Jan 10 06:51:51 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 06:53:30 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 07:03:36 2025
+Customer CUSTF98ER2,Submitted Help Ticket,Fri Jan 10 07:08:07 2025
+Admin admin1,Logged In,Fri Jan 10 07:08:25 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 11:47:29 2025
+Admin admin1,Logged In,Fri Jan 10 11:52:02 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 11:53:23 2025
+Customer CUSTF98ER2,Submitted Help Ticket,Fri Jan 10 11:55:12 2025
+Admin admin1,Logged In,Fri Jan 10 11:55:29 2025
+Admin admin1,Logged In,Fri Jan 10 11:56:53 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 11:58:02 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 12:45:39 2025
+Customer CUSTF98ER2,Booked Service,Fri Jan 10 12:47:35 2025
+Customer CUSTF98ER2,Booked Service,Fri Jan 10 12:48:22 2025
+Customer CUSTF98ER2,Booked Service,Fri Jan 10 12:49:49 2025
+Customer CUSTF98ER2,Cancelled Service Request,Fri Jan 10 12:52:55 2025
+Admin admin1,Logged In,Fri Jan 10 12:54:20 2025
+Admin CUSTF98ER2,Approved Service and Assigned Technician,Fri Jan 10 12:58:30 2025
+Technician tech1,Logged In,Fri Jan 10 13:00:29 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 14:57:44 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 16:04:41 2025
+Customer CUSTF98ER2,Booked Service,Fri Jan 10 16:06:14 2025
+Customer CUSTF98ER2,Cancelled Service Request,Fri Jan 10 16:07:25 2025
+Customer CUSTF98ER2,Booked Service,Fri Jan 10 16:07:47 2025
+Customer CUSTF98ER2,Submitted Help Ticket,Fri Jan 10 16:08:13 2025
+Customer CUSTF98ER2,Submitted Help Ticket,Fri Jan 10 16:08:39 2025
+Admin admin1,Logged In,Fri Jan 10 16:10:51 2025
+Admin CUSTF98ER2,Approved Service and Assigned Technician,Fri Jan 10 16:13:16 2025
+Admin N/A,Added Aircon Unit,Fri Jan 10 16:14:32 2025
+Admin N/A,Edited Aircon Unit,Fri Jan 10 16:17:25 2025
+Admin CUSTF98ER2,De-assigned Aircon Unit,Fri Jan 10 16:19:05 2025
+Technician tech1,Logged In,Fri Jan 10 16:20:06 2025
+Technician N/A,Updated Aircon Maintenance Status,Fri Jan 10 16:24:13 2025
+Technician tech1,Logged In,Fri Jan 10 16:24:31 2025
+Customer CUSTF98ER2,Registered,Fri Jan 10 16:26:10 2025
+Customer CUSTF98ER2,Logged In,Fri Jan 10 16:33:27 2025
+Admin admin1,Logged In,Fri Jan 10 16:34:06 2025
+Admin admin1,Logged In,Fri Jan 10 16:53:51 2025
+Admin N/A,Approved Admin Account,Fri Jan 10 16:54:04 2025
+Admin admin2,Logged In,Fri Jan 10 16:54:20 2025
+Customer CUST4S8UR3,Registered,Fri Jan 10 18:16:47 2025
+Customer CUST4S8UR3,Registered,Fri Jan 10 18:22:21 2025
+Customer CUSTDA1YOJ,Registered,Fri Jan 10 18:25:09 2025
+Customer CUSTLSLS7E,Registered,Fri Jan 10 18:25:41 2025
+Customer CUSTZPZXH0,Registered,Fri Jan 10 18:41:43 2025
+Customer CUSTE8760X,Registered,Fri Jan 10 18:55:42 2025
+Customer CUST4S8UR3,Registered,Fri Jan 10 19:02:48 2025
+Admin admin1,Logged In,Fri Jan 10 19:03:08 2025
+Admin N/A,Approved Customer Account,Fri Jan 10 19:03:17 2025
+Customer CUST4S8UR3,Logged In,Fri Jan 10 19:03:33 2025
+Customer CUSTZPZXH0,Registered,Fri Jan 10 19:05:10 2025
+Admin admin1,Logged In,Fri Jan 10 19:05:26 2025
+Admin N/A,Approved Customer Account,Fri Jan 10 19:05:48 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 19:05:55 2025
+Admin admin1,Logged In,Fri Jan 10 19:06:33 2025
+Admin CUSTZPZXH0,Assigned Aircon Unit,Fri Jan 10 19:07:05 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 19:07:17 2025
+Customer CUSTZPZXH0,Booked Service,Fri Jan 10 19:08:17 2025
+Admin admin1,Logged In,Fri Jan 10 19:08:34 2025
+Admin admin1,Logged In,Fri Jan 10 19:14:04 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 19:14:23 2025
+Customer CUSTZPZXH0,Booked Service,Fri Jan 10 19:15:00 2025
+Admin admin1,Logged In,Fri Jan 10 19:15:45 2025
+Admin admin1,Logged In,Fri Jan 10 19:17:45 2025
+Admin admin1,Logged In,Fri Jan 10 19:21:13 2025
+Admin admin1,Logged In,Fri Jan 10 19:23:48 2025
+Admin admin1,Logged In,Fri Jan 10 19:25:04 2025
+Admin admin1,Logged In,Fri Jan 10 19:29:04 2025
+Admin admin1,Logged In,Fri Jan 10 19:34:51 2025
+Admin CUSTZPZXH0,Approved Service and Assigned Technician,Fri Jan 10 19:35:16 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 19:35:33 2025
+Customer CUSTZPZXH0,Booked Service,Fri Jan 10 19:36:16 2025
+Admin admin1,Logged In,Fri Jan 10 19:36:31 2025
+Admin CUSTZPZXH0,Approved Service and Assigned Technician,Fri Jan 10 19:37:06 2025
+Technician tech1,Logged In,Fri Jan 10 19:37:26 2025
+Technician tech1,Logged In,Fri Jan 10 19:41:39 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 19:42:01 2025
+Customer CUSTZPZXH0,Booked Service,Fri Jan 10 19:42:14 2025
+Customer CUSTZPZXH0,Booked Service,Fri Jan 10 19:42:48 2025
+Admin admin1,Logged In,Fri Jan 10 19:43:03 2025
+Admin CUSTZPZXH0,Approved Service and Assigned Technician,Fri Jan 10 19:44:10 2025
+Technician tech1,Logged In,Fri Jan 10 19:44:28 2025
+Technician tech1,Updated Aircon Maintenance Status,Fri Jan 10 19:44:54 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 19:45:02 2025
+Admin admin1,Logged In,Fri Jan 10 19:46:47 2025
+Admin CUSTZPZXH0,Approved Service and Assigned Technician,Fri Jan 10 19:48:03 2025
+Technician tech1,Logged In,Fri Jan 10 19:48:12 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 20:05:50 2025
+Customer CUSTZPZXH0,Booked Service,Fri Jan 10 20:06:19 2025
+Admin admin1,Logged In,Fri Jan 10 20:06:28 2025
+Admin admin1,Logged In,Fri Jan 10 20:07:06 2025
+Admin admin1,Logged In,Fri Jan 10 20:13:46 2025
+Admin CUSTZPZXH0,Approved Service and Assigned Technician,Fri Jan 10 20:14:02 2025
+Customer CUSTZPZXH0,Logged In,Fri Jan 10 20:21:17 2025
+Customer CUSTDA1YOJ,Registered,Fri Jan 10 20:32:15 2025
+Admin admin1,Logged In,Fri Jan 10 20:32:31 2025
+Admin N/A,Approved Customer Account,Fri Jan 10 20:32:47 2025
+Customer CUSTDA1YOJ,Logged In,Fri Jan 10 20:32:54 2025
+Admin admin1,Logged In,Fri Jan 10 20:40:37 2025
+Admin CUSTF98ER2,Approved Service and Assigned Technician,Fri Jan 10 20:41:13 2025
+Admin admin1,Logged In,Fri Jan 10 20:42:55 2025
+Customer CUSTE8760X,Registered,Fri Jan 10 20:44:31 2025
+Admin admin1,Logged In,Fri Jan 10 20:44:42 2025
+Technician tech1,Logged In,Fri Jan 10 20:45:24 2025
+Technician tech1,Logged In,Fri Jan 10 20:45:41 2025
+Customer CUSTLSLS7E,Registered,Fri Jan 10 20:48:07 2025
+Admin admin1,Logged In,Fri Jan 10 20:48:44 2025
+Admin N/A,Approved Customer Account,Fri Jan 10 20:49:25 2025
+Customer CUSTLSLS7E,Logged In,Fri Jan 10 20:49:39 2025
+Admin admin1,Logged In,Fri Jan 10 20:51:46 2025
+Admin N/A,Approved Technician Account,Fri Jan 10 20:52:03 2025
+Admin admin1,Logged In,Fri Jan 10 20:52:57 2025
+Admin N/A,Approved Technician Account,Fri Jan 10 20:53:53 2025
+Admin admin1,Logged In,Fri Jan 10 20:55:05 2025
+Customer CUSTLSLS7E,Logged In,Fri Jan 10 20:57:06 2025
+Customer CUSTLSLS7E,Logged In,Fri Jan 10 20:57:39 2025
+Customer CUSTLSLS7E,Submitted Help Ticket,Fri Jan 10 20:58:54 2025
+Admin admin1,Logged In,Fri Jan 10 20:59:50 2025
+Admin CUSTLSLS7E,Updated Help Ticket Status,Fri Jan 10 21:00:32 2025
+Admin CUSTLSLS7E,Assigned Aircon Unit,Fri Jan 10 21:01:08 2025
+Customer CUSTLSLS7E,Logged In,Fri Jan 10 21:06:22 2025
+Customer CUSTLSLS7E,Booked Service,Fri Jan 10 21:09:55 2025
+Admin admin1,Logged In,Fri Jan 10 21:10:52 2025
+Admin CUSTLSLS7E,Approved Service and Assigned Technician,Fri Jan 10 21:11:32 2025
+Technician tech1,Logged In,Fri Jan 10 21:11:49 2025
+Technician tech1,Updated Aircon Maintenance Status,Fri Jan 10 21:15:13 2025
+Admin admin1,Logged In,Fri Jan 10 23:54:34 2025
+Technician tech1,Logged In,Sat Jan 11 00:04:04 2025
+Technician tech1,Logged In,Sat Jan 11 00:11:38 2025
+Customer CUSTLSLS7E,Logged In,Sat Jan 11 00:17:12 2025
+Technician tech1,Logged In,Sat Jan 11 00:22:24 2025
+Admin admin1,Logged In,Sat Jan 11 10:22:21 2025
+Technician tech1,Logged In,Sat Jan 11 10:26:36 2025
+Customer CUSTF98ER2,Registered,Sat Jan 11 14:17:40 2025
+Admin admin1,Logged In,Sat Jan 11 14:18:05 2025
+Admin N/A,Approved Customer Account,Sat Jan 11 14:18:15 2025
+Admin N/A,Added Aircon Unit,Sat Jan 11 14:26:03 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:08:34 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:15:03 2025
+Admin admin1,Logged In,Sat Jan 11 16:17:04 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:17:13 2025
+Admin admin1,Logged In,Sat Jan 11 16:17:26 2025
+Admin N/A,Added Aircon Unit,Sat Jan 11 16:18:16 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:18:40 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:19:10 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:40:39 2025
+Admin admin1,Logged In,Sat Jan 11 16:40:54 2025
+Admin N/A,Added Aircon Unit,Sat Jan 11 16:41:36 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:41:46 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:45:03 2025
+Admin admin1,Logged In,Sat Jan 11 16:48:08 2025
+Admin N/A,Added Aircon Unit,Sat Jan 11 16:48:33 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:48:40 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:52:40 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:55:58 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:56:11 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 16:59:49 2025
+Customer CUST4S8UR3,Registered,Sat Jan 11 17:10:30 2025
+Admin admin1,Logged In,Sat Jan 11 17:10:38 2025
+Admin N/A,Added Aircon Unit,Sat Jan 11 17:11:04 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 17:11:12 2025
+Customer CUSTF98ER2,Logged In,Sat Jan 11 17:13:18 2025
+Customer CUSTZPZXH0,Registered,Tue Jan 28 03:12:11 2025
